@@ -1,4 +1,7 @@
 data
 venv
+models
 .ipynb_checkpoints
 .idea
+wandb
+
