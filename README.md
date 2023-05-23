@@ -10,5 +10,5 @@ Hybrid film recommendation system:
 all fed into a neural network to make final prediction for the user.
 
 Still to do:
-1) Create a UI (streamlit or tkinter)
-2) Add scraping function to the main recommendation function so user only needs to provide IMDb user URL
+1) Create a UI (streamlit or tkinter) - done
+2) Add scraping function to the main recommendation function so user only needs to provide IMDb user URL - done
